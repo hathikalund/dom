@@ -9,8 +9,8 @@ bot_start_time = datetime.now()
 attack_in_progress = False
 current_attack = None
 attack_history = [] 
-TELEGRAM_BOT_TOKEN = '7252565213:'
-ADMIN_USER_ID = 134230
+TELEGRAM_BOT_TOKEN = '7877126466:AAH6lNFpehRtrqV7pU4Gl2hHV5UNupLLsfo:'
+ADMIN_USER_ID = 1174779637
 MONGO_URI = "mongodb+srv://Bishal:Bishal@bishal.dffybpx.mongodb.net/?retryWrites=true&w=majority&appName=Bishal"
 DB_NAME = "zoya"
 COLLECTION_NAME = "users"
